@@ -1,0 +1,12 @@
+{
+  "name": "Remo: AI Emotion-Based Movie Guide",
+  "description": "Discover personalized movie recommendations tailored to your current mood using advanced genre mapping and Gemini AI insights.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "AI Recommendations",
+    "Mood Analysis",
+    "Smart Filtering"
+  ]
+}
